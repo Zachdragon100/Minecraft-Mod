@@ -1,28 +1,34 @@
-[14:09:53] [main/INFO]: Setting user: ForgeDevName
-[14:09:55] [Client thread/INFO]: LWJGL Version: 2.9.1
-[14:10:04] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Minecraft Mod
-[14:10:05] [Sound Library Loader/INFO]: Sound engine started
-[14:10:05] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
-[14:10:05] [Client thread/INFO]: Created: 256x256 textures/items-atlas
-[14:10:06] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Minecraft Mod
-[14:10:06] [Client thread/INFO]: Created: 256x256 textures/items-atlas
-[14:10:06] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
-[14:10:07] [Sound Library Loader/INFO]: Sound engine started
-[14:10:12] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
-[14:10:13] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:gui.button.press
-[14:10:36] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
-[14:10:40] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
-[14:11:06] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
-[14:11:11] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
-[14:11:12] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
-[14:11:21] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
-[14:11:24] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
-[14:11:42] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
-[14:12:07] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
-[14:12:33] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
-[14:12:52] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
-[14:13:21] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
-[14:13:47] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
-[14:13:58] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:gui.button.press
-[14:13:58] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:gui.button.press
-[14:13:58] [Client thread/INFO]: Stopping!
+[17:49:23] [main/INFO]: Setting user: ForgeDevName
+[17:49:25] [Client thread/INFO]: LWJGL Version: 2.9.1
+[17:49:34] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Minecraft Mod
+[17:49:34] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: %s in %s
+[17:49:35] [Sound Library Loader/INFO]: Sound engine started
+[17:49:35] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[17:49:36] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[17:49:36] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Minecraft Mod
+[17:49:36] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: %s in %s
+[17:49:36] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[17:49:36] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[17:49:37] [Sound Library Loader/INFO]: Sound engine started
+[17:49:41] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:gui.button.press
+[17:49:43] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[17:49:43] [Server thread/INFO]: Generating keypair
+[17:49:43] [Server thread/INFO]: Preparing start region for level 0
+[17:49:45] [Server thread/INFO]: Changing view distance to 12, from 10
+[17:49:45] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
+[17:49:45] [Server thread/INFO]: ForgeDevName[local:E:83737146] logged in with entity id 128 at (1175.1858342844475, 17.0, 822.110332731205)
+[17:49:45] [Server thread/INFO]: ForgeDevName joined the game
+[17:49:53] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.game.creative
+[17:50:13] [Server thread/INFO]: Saving and pausing game...
+[17:50:13] [Server thread/INFO]: Saving chunks for level 'TestWorld'/Overworld
+[17:50:13] [Server thread/INFO]: Saving chunks for level 'TestWorld'/Nether
+[17:50:13] [Server thread/INFO]: Saving chunks for level 'TestWorld'/The End
+[17:50:15] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:gui.button.press
+[17:50:15] [Server thread/INFO]: Stopping server
+[17:50:15] [Server thread/INFO]: Saving players
+[17:50:15] [Server thread/INFO]: Saving worlds
+[17:50:15] [Server thread/INFO]: Saving chunks for level 'TestWorld'/Overworld
+[17:50:15] [Server thread/INFO]: Saving chunks for level 'TestWorld'/Nether
+[17:50:15] [Server thread/INFO]: Saving chunks for level 'TestWorld'/The End
+[17:50:16] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:gui.button.press
+[17:50:16] [Client thread/INFO]: Stopping!

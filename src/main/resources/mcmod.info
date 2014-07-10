@@ -1,0 +1,21 @@
+[
+{
+  "modid": "mcraftMod",
+  "name": "Minecraft Mod",
+  "description": "Base mod that I made with the help of Pahinoob",
+  "version": "1.0.0",
+  "mcversion": "1.7.10",
+  "url": "",
+  "updateUrl": "",
+  "authorList": [
+    "Zachdragon100"
+  ],
+  "credits": "Pahimar's Let's Mod Reboot was a HUGE help",
+  "logoFile": "",
+  "screenshots": [
+  ],
+  "parent":"",
+  "dependencies": [
+  ]
+}
+]
